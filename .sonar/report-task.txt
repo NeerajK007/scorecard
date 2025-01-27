@@ -1,0 +1,6 @@
+projectKey=scorecard
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=scorecard
+ceTaskId=9115193c-d2d1-4045-b9ef-afa10b169de6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9115193c-d2d1-4045-b9ef-afa10b169de6
